@@ -1,4 +1,5 @@
 # Merge-Sort
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
 Merge Sort Project 2
 Proje 2
 [16,21,11,8,12,22] -> Merge Sort
